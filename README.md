@@ -5,13 +5,13 @@
 <h1 align="center"> Hi, I'm Grigor 👋 (@thespyhead) </h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thespyhead/assets/brilliant-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thespyhead/assets/brilliant-snake.svg">
-  <img alt="brilliant-snake" src="https://raw.githubusercontent.com/thespyhead/assets/brilliant-snake-dark.svg"">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thespyhead/thespyhead/main/assets/brilliant-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thespyhead/thespyhead/main/assets/brilliant-snake.svg">
+  <img alt="brilliant-snake" src="https://raw.githubusercontent.com/thespyhead/thespyhead/main/assets/brilliant-snake-dark.svg">
 </picture>
 
 
-<h3 align="center">Chess Player ♟️ | Python Developer 🐍<h3>
+<h3 align="center">Chess Player ♟️ | Python Developer 🐍</h3>
 
   
   <h3>🌱 I’m Currently Learning</h3>
@@ -19,7 +19,7 @@
       <p>Mastering C++ and AssemblyScript to understand memory manipulation and engine internals.</p>
 
 
-  <h3>👀 I’m Interested In</h4>
+  <h3>👀 I’m Interested In</h3>
       <h5><b>Artificial Intelligence & Neural Networks</b></h5>
       <h5>Exploring the boundaries of LLMs, computer vision with YOLO, and automation workflows.</h5>
 
